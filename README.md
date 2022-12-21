@@ -1,7 +1,6 @@
 # myfirstcode
 playing with string
-when u write a sentence or word (25 is the maximum of length) you are gonna get output like this:
-hello wold :
+ hello wold :
 H
 HE
 HEL
